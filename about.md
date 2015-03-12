@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Dave Smith, a web developer from Frome, working in Bath, UK. Currently Lead Developers at [Mr B and Friends](http://www.mrbandfriends.co.uk) I specialise in frontend development with particular fondness for CSS and JavaScript. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
